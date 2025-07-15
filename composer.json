@@ -1,0 +1,15 @@
+{
+    "name": "relatado/student-management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Relatado\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shine relatado"
+        }
+    ],
+    "require": {}
+}
